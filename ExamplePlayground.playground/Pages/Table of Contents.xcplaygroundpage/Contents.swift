@@ -1,6 +1,6 @@
 /*:
  
- # Swift Plaground examples
+ # Swift Playground examples
  
  ![Icon for playground](Apple_Swift_Logo.png)
  
