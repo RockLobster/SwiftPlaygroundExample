@@ -1,7 +1,7 @@
 /*:
  [Back to Table of Contents](@first) | [Previous Page](@previous)
  
- Sometimes it is not convenient to have the definition of a class inside your playground page but you still want to be able to use it.
+ ### Sometimes it is not convenient to have the definition of a class inside your playground page but you still want to be able to use it.
  
  For these cases you can add auxiliary code to playground by putting it into one of these folders:
  ![Local Auxiliary Code](AuxiliaryCode.png)
