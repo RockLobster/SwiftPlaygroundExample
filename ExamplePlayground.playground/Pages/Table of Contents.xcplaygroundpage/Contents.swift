@@ -18,9 +18,9 @@
  1. [Class example](Class%20Example)
  2. [Support for (Custom) Views](Views%20Support)
  3. [Live Views](Live%20Views)
- 4. Auxiliary Code
-    1. [Code Local to a Page or Playground](Local%20Auxiliary%20Code)
-    2. [Referencing a Custom Framework](Custom%20Frameworks)
+ 4. Auxiliary Code...
+    - [... Local to a Page or Playground](Local%20Auxiliary%20Code)
+    - [... Referencing Code **Outside** the Playground](External%20Code)
  5. [Markup Language Examples](Markup%20Language)
 ----
  > To navigate through this document you can use the buttons at the bottom/top of the pages.

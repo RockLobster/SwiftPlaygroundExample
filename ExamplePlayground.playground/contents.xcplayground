@@ -7,6 +7,7 @@
         <page name='Views Support'/>
         <page name='Live Views'/>
         <page name='Local Auxiliary Code'/>
+        <page name='External code'/>
         <page name='Markup Language'/>
     </pages>
 </playground>
