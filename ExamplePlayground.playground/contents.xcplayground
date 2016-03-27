@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Table of Contents'/>
+        <page name='Hello World'/>
+        <page name='Class Example'/>
+        <page name='Views Support'/>
+        <page name='Live Views'/>
+        <page name='Local Auxiliary Code'/>
+        <page name='Markup Language'/>
+    </pages>
+</playground>
